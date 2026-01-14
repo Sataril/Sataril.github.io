@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好世界&amp;今日随笔</title>
+      <link href="/2026/01/14/First-Article/"/>
+      <url>/2026/01/14/First-Article/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello, World!"></a>Hello, World!</h2><p>&emsp;&emsp;很久之前就想要做个人博客了，拖延了三年左右，归功于<a href="https://hhelloe.github.io/">小何</a>的压力<em>（?）</em>终于在这次考试周结束之后上线了，折腾了一晚上，从Git、Node.js，到配置Hexo，中间还搞了很多很低级搞笑的错误，不过好在最后在曲折探索中成功了，欢迎你们发友链给我！</p><h2 id="电子日记"><a href="#电子日记" class="headerlink" title="电子日记"></a>电子日记</h2><p>&emsp;&emsp;两个月前刚开始重新写纸质日记，现在突然又觉得，电脑打字快多了而且可以随便删改，还真就是那个分久必合、合久必分，不过手写还有要用钢笔练字的原因，大不了还可以扫描然后传到这里嘛</p><h2 id="晚安"><a href="#晚安" class="headerlink" title="晚安"></a>晚安</h2><p>&emsp;&emsp;以后也许会在博客发一些日记或者碎碎念。（不过真的有人愿意看这些吗？技术类的文章更写不出来了，代码什么的真的一窍不通哇！）</p><p>&emsp;&emsp;一想到自己文笔也是一塌糊涂，更伤心了。不过至少圆了一个曾经画过的饼，也算是好事一件</p><p>&emsp;&emsp;Good Night…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
+            
+            <tag> learn </tag>
+            
+            <tag> self-talking </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2026/01/14/hello-world/"/>
+      <url>/2026/01/14/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
