@@ -161,6 +161,49 @@
 </article>
 
 
+  
+
+  
+    <section id="giscus-comment" class="sea-page-card-wrapper"></section>
+
+<script>
+  function createGusicScript() {
+    const container = document.querySelector("#giscus-comment");
+    const themeKey = getThemeKey();
+    const giscus_theme = themeKey || THEME_MODE_LIGHT;
+    const giscus_lang = "en" || "en";
+    const giscus_repo = "Sataril/Sataril.github.io";
+    const giscus_repo_id = "R_kgDOQ5oWgQ";
+    const giscus_category = "Announcements";
+    const giscus_category_id = "IC_kwDOQ5oWgc4C1EvW";
+    const giscus_mapping = "pathname";
+    const giscus_strict = "";
+    const giscus_reactions_enabled = "1";
+    const giscus_emit_metadata = "0";
+    const giscus_input_position = "bottom";
+    const giscus_loading = "lazy";
+    let script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.setAttribute("data-repo", giscus_repo);
+    script.setAttribute("data-repo-id", giscus_repo_id);
+    script.setAttribute("data-category", giscus_category);
+    script.setAttribute("data-category-id", giscus_category_id);
+    script.setAttribute("data-mapping", giscus_mapping);
+    script.setAttribute("data-strict", giscus_strict);
+    script.setAttribute("data-reactions-enabled", giscus_reactions_enabled);
+    script.setAttribute("data-emit-metadata", giscus_emit_metadata);
+    script.setAttribute("data-input-position", giscus_input_position);
+    script.setAttribute("data-theme", giscus_theme);
+    script.setAttribute("data-lang", giscus_lang);
+    script.setAttribute("data-loading", giscus_loading);
+    script.setAttribute("crossorigin", "anonymous");
+    script.defer = true;
+    container && container.appendChild(script);
+  }
+  createGusicScript();
+</script>
+  
+
 
   </main>
   <footer id="sea-footer-container">
